@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Johan_Modul7/1.0.0": {
+        "runtime": {
+          "Johan_Modul7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Johan_Modul7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

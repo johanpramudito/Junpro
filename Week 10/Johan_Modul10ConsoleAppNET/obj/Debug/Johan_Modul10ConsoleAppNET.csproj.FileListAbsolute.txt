@@ -1,0 +1,14 @@
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\bin\Debug\Johan_Modul10ConsoleAppNET.exe.config
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\bin\Debug\Johan_Modul10ConsoleAppNET.exe
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\bin\Debug\Johan_Modul10ConsoleAppNET.pdb
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\bin\Debug\RestSharp.dll
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\bin\Debug\RestSharp.xml
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\obj\Debug\Johan_Modul10ConsoleAppNET.csproj.AssemblyReference.cache
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\obj\Debug\Johan_Modul10ConsoleAppNET.Form1.resources
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\obj\Debug\Johan_Modul10ConsoleAppNET.csproj.GenerateResource.cache
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\obj\Debug\Johan_Modul10ConsoleAppNET.csproj.CoreCompileInputs.cache
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\obj\Debug\Johan_Modul10ConsoleAppNET.csproj.CopyComplete
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\obj\Debug\Johan_Modul10ConsoleAppNET.exe
+C:\Users\Johan\Documents\Johan\Junpro\Week 10\Johan_Modul10ConsoleAppNET\obj\Debug\Johan_Modul10ConsoleAppNET.pdb

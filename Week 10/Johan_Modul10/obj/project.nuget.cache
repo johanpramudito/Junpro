@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+7tnFaPMzQ/YXQ1rugh9QG4GyMdj+Jag8T9HJFTb/n+p3xZk+vl3RrdIc9/lJto75vU+C3vLTAc8wKdVLtpNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johan\\Documents\\Johan\\Junpro\\Week 10\\Johan_Modul10\\Johan_Modul10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.10\\microsoft.extensions.apidescription.server.8.0.10.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
